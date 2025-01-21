@@ -9,6 +9,8 @@ DMP Map Components is an (NPM) package containing web frontend components intend
 
 See frontend [components usage](./usage/components.md) to get started.
 
+For more advanced scenarios it's also possible to directly use an [API](./usage/api.md) to access the dataset catalog without using the components.
+
 # Caveats
 
 - Coordinate system EPSG:25832 is assumed and other projections aren't supported at this time
