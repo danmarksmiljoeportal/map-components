@@ -1,6 +1,4 @@
-# DMP Map Components
-
-## Introduction
+# Introduction
 
 DMP Map Components is an (NPM) package containing web frontend components intended to generally useful for applications that include a map. Map components integrate with a centralised catalog with data sources and offers the following UI components:
 
@@ -11,6 +9,6 @@ DMP Map Components is an (NPM) package containing web frontend components intend
 
 See [usage](./usage) for how to get started.
 
-## Caveats
+# Caveats
 
 - Coordinate system EPSG:25832 is assumed and other projections aren't supported at this time
