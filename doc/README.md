@@ -1,4 +1,4 @@
-# DMP map-components
+# DMP Map Components
 
 ## Introduction
 
