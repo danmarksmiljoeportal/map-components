@@ -1,6 +1,6 @@
-## Usage
+## Component usage
 
-The package contains multiple components, that can be used independently from each other as stand alone or in combination. 
+The DMP Map Components package contains multiple components, that can be used independently from each other as stand alone or in combination. 
 
 The components are implemented in Vue 3 and is easiest to integrate in Vue 3 applications but has been tested to also works in other scenarios for example vanilla JavaScript, Ember JS and Angular.
 
