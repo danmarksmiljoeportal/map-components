@@ -11,11 +11,11 @@ import { Api } from '@dmp/map-components'
 const api = new Api()
 ```
 
-The API can be used with or without a map. Normally it is used in combination with a map. A map can be created using a variety of map libraries. The most common is [OpenLayers](https://openlayers.org/) and the API is build around OpenLayers to make it easy to use. Other libraries, like [MapLibre](https://maplibre.org/) can be used, but you need to do more of the implementation youself.
+The API can be used with or without a map, however it is normally used in combination with a map. A map can be created using a variety of map libraries. The most common is [OpenLayers](https://openlayers.org/) and the API by default integrates to OpenLayers. Other libraries, like [MapLibre](https://maplibre.org/) can be used, but you need to do more of the implementation yourself.
 
 ### Options
 
-To control the initial state of the datasets and how they are presented, use the followning options.
+To control the initial state of the datasets and how they are presented, use the following options.
 
 #### onlyRenderable
 
