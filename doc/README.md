@@ -1,6 +1,8 @@
 # Introduction
 
-DMP Map Components is an (NPM) package containing web frontend components intended to generally useful for applications that include a map. Map components integrate with a centralised dataset catalog and offers the following UI components:
+DMP Map Components is an (NPM) package containing web frontend components intended to be generally
+useful for applications that include a map. Map components integrate with a centralised dataset
+catalog and offers the following UI components:
 
 * LayerControl, this controls which layers are shown on the map (danish name Lagvælger or LV)
 * DataStore, the datastore is an overview of all the datasets that can be added to the map (danish name Databutik or DB)
@@ -9,7 +11,8 @@ DMP Map Components is an (NPM) package containing web frontend components intend
 
 See frontend [components usage](./usage/components.md) to get started.
 
-For more advanced scenarios it's also possible to directly use an [API](./usage/api.md) to access the dataset catalog without using the components.
+For more advanced scenarios it's also possible to directly use an [API](./usage/api.md) to access
+the dataset catalog without using the components.
 
 # Caveats
 
